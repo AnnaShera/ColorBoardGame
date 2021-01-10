@@ -4,3 +4,5 @@ A 2-Dimensional coloring game with interface implemented using DFS traversal
 * The player has 25 moves to win and color the entire board in one color.
 * Each turn, the player must choose a color for the top-left cell of the board.
 * The color will spread from the starting cell to his neighbors if they originally were colored as him. 
+
+*Board size and num of moves declared in the constant.py file.
